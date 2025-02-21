@@ -1,5 +1,4 @@
-![TODO1](/images/todo1.jpg?raw=true)
-![TODO2](/images/todo2.jpg?raw=true)
-![TODO3](/images/todo3.jpg?raw=true)
-![TODO4](/images/todo4.jpg?raw=true)
-
+<img src="images/todo1.jpg" alt="Todo 1" width="400" />
+<img src="images/todo2.jpg" alt="Todo 2" width="400" />
+<img src="images/todo3.jpg" alt="Todo 3" width="400" />
+<img src="images/todo4.jpg" alt="Todo 4" width="400" />
